@@ -1,0 +1,7 @@
+pl\ic3dd\ic3ddogloszenia\commands\AnnouncementCommand.class
+pl\ic3dd\ic3ddogloszenia\utils\ChatUtil.class
+pl\ic3dd\ic3ddogloszenia\Main.class
+pl\ic3dd\ic3ddogloszenia\commands\CreateAnnouncementCommand.class
+pl\ic3dd\ic3ddogloszenia\utils\MessageBuilder.class
+pl\ic3dd\ic3ddogloszenia\commands\ReloadConfigCommand.class
+pl\ic3dd\ic3ddogloszenia\events\PlayerJoinListener.class
